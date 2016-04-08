@@ -62,19 +62,21 @@ li a:hover {
 	text-align:center;
 	color:white;
 	padding:1%;
+	clear:both;
 }
 
-#image {
+.image {
     float: right;
     margin:-3% 2%;
     padding:-10%;
 }
 
+/* class image dan teks jadi satu
 .rendang{
 	margin:1%;
 	margin-right:30%;
 	padding:1%;
-	float:left;
+	text-align:left;
 }
 
 .satepadang{
@@ -83,11 +85,30 @@ li a:hover {
 	padding:1%;
 	text-align:left;
 }
+*/
+
+.resepteks{
+	width:70%;
+	float:left;
+	padding:1%;
+}
+
+.resepgambar{
+	float:left;
+	margin: 29px 20px 0 0;
+	border-radius:4%;
+	
+}
 
 #right {
-    position: absolute;
-    right: 0px;
-    width: 300px;
-    margin:1%;
-    margin-top:-25%;
+	float:right;
+    width:20%;
+    height:auto;
+    padding:2%;
+    text-align:left;
+    margin-top:-20%;
+}
+
+form{
+	text-align:center;	
 }
