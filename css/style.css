@@ -1,0 +1,93 @@
+﻿/*body{
+	background-color:orange;
+}
+
+#header{
+	color:aqua;
+}
+
+.tulisan2 {
+	color:blue;
+	
+.rendang{
+	background-color:white;
+	text-align:left;
+	color:black;
+	padding:1%;
+}
+
+}*/
+
+
+#header{
+	background-color:black;
+	text-align:center;
+	color:white;
+	padding:4%;
+}
+
+ul{
+	list-style-type:none;
+	margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+.tulisan2{
+	background-color:white;
+	text-align:center;
+	color:black;
+	padding:4%;
+}
+
+#footer{
+	background-color:black;
+	text-align:center;
+	color:white;
+	padding:1%;
+}
+
+#image {
+    float: right;
+    margin:-3% 2%;
+    padding:-10%;
+}
+
+.rendang{
+	margin:1%;
+	margin-right:30%;
+	padding:1%;
+	float:left;
+}
+
+.satepadang{
+	margin:1%;
+	margin-right:30%;
+	padding:1%;
+	text-align:left;
+}
+
+#right {
+    position: absolute;
+    right: 0px;
+    width: 300px;
+    margin:1%;
+    margin-top:-25%;
+}
