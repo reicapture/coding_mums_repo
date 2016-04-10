@@ -54,7 +54,7 @@ li a:hover {
 	background-color:white;
 	text-align:center;
 	color:black;
-	padding:4%;
+	padding:0 4% 0% 4%;
 }
 
 #footer{
@@ -104,11 +104,13 @@ li a:hover {
 	float:right;
     width:20%;
     height:auto;
-    padding:2%;
     text-align:left;
-    margin-top:-20%;
+    margin-top:-35%
 }
 
 form{
-	text-align:center;	
+	text-align:center;
+	margin: 2%;
+	line-height:1.5;
 }
+
