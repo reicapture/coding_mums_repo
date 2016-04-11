@@ -100,13 +100,23 @@ li a:hover {
 	
 }
 
+
 #right {
 	float:right;
     width:20%;
     height:auto;
     text-align:left;
-    margin-top:-35%
+    margin-top: -35%;
 }
+
+/* coach z
+#right {
+	float:right;
+    width:20%;
+    height:auto;
+    padding:2%;
+}
+*/
 
 form{
 	text-align:center;
